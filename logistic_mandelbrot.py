@@ -7,7 +7,7 @@ This code generates and renders 3D volumetric data of the
 Mandelbrot set.
 
 Note that volumetric rendering is very resource intensive so rendering out to
-f rames might be the only option for most normal computers (not interactive)
+frames might be the only option for most normal computers (not interactive)
 
 Code structure is roughly:
     - imports
